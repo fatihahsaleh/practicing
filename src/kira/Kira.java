@@ -29,7 +29,7 @@ public class Kira {
            System.out.println();
           jawapan=input.nextLine();
         }
-        while(jawapan=="YA");
+        while(jawapan=="Tidak");
         
           
         
