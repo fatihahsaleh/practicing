@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"
+<title>senarai  nama pelajar 1SVM IPD</title>
+</head>
+<body>
+<Hl>senarai nama pelajar 1 SVM IPD</Hl>
+<a href="1SVM IPD.html>1SVM IPD<a>
+<ol>
+<li>senarai nama pelajar 1 SVM IPD
+<li>Faris Ruzaini
+<li>Zulhelmi Zaharin
+<li>Hairul Hafizie
+<li>Faiq Faiqal
+<li>Haziq Arwanshah
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+

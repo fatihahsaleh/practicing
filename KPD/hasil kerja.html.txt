@@ -1,0 +1,19 @@
+﻿<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<meta charset=utf8">
+<tittle>pengenalan diri</tittle>
+</head>
+
+<body>
+<marquee >pengenalan diri</maequee>
+<HR>
+<P>
+Nama saya Nurul Fatihah Binti Muhammad Jalani,Saya berasal dari Kampung Pandan Dalam Kuala Lumpur.
+<BR>Saya merupakan anak yang kedua daripada enam orang adik beradik.Cita cita saya menjadi jurutera perisian.
+Saya pilih program ini kerana saya ingin mempelajari bidang ini dengan lebih mendalam.
+</p>
+</body>
+</html>
